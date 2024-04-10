@@ -1,0 +1,29 @@
+{
+  "Files": ["../Data"],
+  "Refining Parameters": [
+    {
+      "Wavelength Min": 176,
+      "Wavelength Max": 182,
+      "Min Cloud Area": 10,
+      "Section Size": 500,
+      "Radiance Min": 3,
+      "Radiance Max": 100,
+      "Max Altitude Swap Value": 0
+    },
+    {
+      "Wavelength Min": 176,
+      "Wavelength Max": 182,
+      "Min Cloud Area": 50,
+      "Section Size": 50,
+      "Radiance Min": 3,
+      "Radiance Max": 100,
+      "Max Altitude Swap Value": 0
+    }
+  ],
+  "Plot Wavelength Min": 176,
+  "Plot Wavelength Max": 182,
+  "JSON Output": true,
+  "Plot - Default - Verbose - Both": "Default",
+  "Horizontal Radius": 1,
+  "Vertical Radius": 0.7
+}
